@@ -1,4 +1,4 @@
-body{
+body{ 
 
 }
 .for{
@@ -7,5 +7,23 @@ body{
 .Dn{
                         text-align: center;
                         color: chocolate;
+
+}
+.sec{
+         
+         
+
+}
+.don{
+              width: 1000px ;  
+              height: 500px;
+}
+.di{
+   width: 1000px;
+   height: 500px;
+   padding: 20px;
+   margin: 100px auto;
+   box-shadow: 10px 10px 10px 10px tomato;
+   
 
 }
