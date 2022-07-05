@@ -1,29 +1,71 @@
 body{ 
 
+
+                        font-family: 'Poppins', sans-serif;
+
+
 }
 .for{
-            text-align: center;            
+            text-align: center; 
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            text-align: center;
+            font-size: 50px;
+            height: 50px;
+            text-shadow: 5px 5px  black;
+            color: gold;
+
+
+}
+h1{
+                        
+                        
+                        
+
 }
 .Dn{
                         text-align: center;
                         color: chocolate;
+ padding-left: 5px ;
 
 }
 .sec{
          
-         
+         display: flexbox 
 
 }
 .don{
-              width: 1000px ;  
+              width: 1200px ;  
               height: 500px;
+              background-image: none;
+              
 }
 .di{
-   width: 1000px;
+   width: 1200px;
    height: 500px;
    padding: 20px;
    margin: 100px auto;
    box-shadow: 10px 10px 10px 10px tomato;
+   text-align: center;
    
 
+
+}
+.fos{
+            
+                        position: absolute;
+                        top: 40%;
+                        width: 100%;
+                        text-align: center;
+                        padding-left: 10px  ;
+                        font-size: 20px;
+                        height: 80px;
+                        color: lightyellow;
+            
+}
+.ftr{
+                text-align: center;
+                background-color: black;   
+                color: white;     
 }
