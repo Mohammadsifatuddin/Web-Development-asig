@@ -27,7 +27,7 @@ h1{
 .Dn{
                         text-align: center;
                         color: chocolate;
- padding-left: 5px ;
+                           padding-left: 5px ;
 
 }
 .sec{
@@ -68,4 +68,9 @@ h1{
                 text-align: center;
                 background-color: black;   
                 color: white;     
+}
+
+
+.DT{
+    text-align: center;
 }
