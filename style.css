@@ -20,10 +20,10 @@ body{
 }
 h1{
                         
-     font-size: 50px ;                   
-                        
-
-}
+     font-size: 50px ;}
+     .h1s{
+      font-size: medium;
+    }
 .Dn{
                         
                         color: chocolate;
@@ -99,8 +99,6 @@ h1{
 }
 .tk{
      text-align: center;
-     
-     
      box-shadow: 10px 10px 10px 10px lightgreen ;
      width: 150px;
      height: 50px;
@@ -138,3 +136,27 @@ h1{
          
           
      }
+     .new{
+            display: inline-flex;
+           }
+           .news{
+                    display: block;
+                    
+
+           }
+           .news1{
+            box-shadow: 10px 10px 10px 10px red ;
+            width: 350px;
+            height: 275px;
+            text-align: center;
+            padding-left: 10px;
+            text-shadow: 2px 2px 5px red;
+            }
+            .news2{
+               box-shadow: 10px 10px 10px 10px rgb(217, 255, 0) ;
+               width: 350px;
+               height: 275px;
+               text-align: justify;
+               padding-left: 10px;
+               text-shadow: 2px 2px yellow;
+            }
